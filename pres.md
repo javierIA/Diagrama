@@ -64,5 +64,3 @@ Después del reconocimiento, el texto se somete a una fase de postprocesamiento.
 Finalmente, el texto procesado se envía como salida, que podría ser guardado en una base de datos, mostrado al usuario, entre otros posibles destinos.
 
 ---
-
-Esta descripción detalla las etapas clave de tu proceso de OCR. Puedes adaptarla y expandirla según las particularidades y detalles técnicos de tu implementación específica.
