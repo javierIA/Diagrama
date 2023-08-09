@@ -60,6 +60,5 @@ Independientemente de dónde se haya desplegado el modelo, al finalizar el despl
 
 ---
 
-## poner el link de otro abajo 
-
+### Descripción del Proceso de OCR:
 [Ver Proceso planteado](pres.md)
